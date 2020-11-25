@@ -1,5 +1,5 @@
 # Code Club Karlovac
-## C++ radionica, Zadaci
+## Python radionica, Zadaci
 
 Pripremljeni zadaci za radionicu.
 
